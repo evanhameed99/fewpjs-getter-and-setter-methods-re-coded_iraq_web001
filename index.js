@@ -15,7 +15,7 @@ class Circle {
   }
   set diameter(radius){
     this.diameter = radius ;
-    
+
   }
   set circumference(){
     this.circumference = radius
